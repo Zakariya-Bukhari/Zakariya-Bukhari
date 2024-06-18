@@ -49,7 +49,6 @@
 
 <h3 align="center">Skills:</h3>
 
-<h3 align="center">Skills:</h3>
 
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="80" style="margin-right: 150px"/>
